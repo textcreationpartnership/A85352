@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Hull. Being the most happie discoverie of a terrible plot against the said town; intended by Sir Charles Grantham, but discovered by Mr. Henry Brunker, sonne in law unto the said Sir Charles. The manner of the betraying to be by a false alarum at the South Port. With the summe of moneys proffered Mr. Brunker for his trust and consent. And also the manner and meanes of the discoverie. Also, the Danes fleet discovered at sea, having (as is supposed) an intent against this kingdome; with the manner how Van Trump the Dutch-admirall met with them at sea, upon the English coast. Wherein is related the manner of their battell, and how they were put to flight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85352</idno>
+            <idno type="STC">Wing G1057</idno>
+            <idno type="STC">Thomason E150_23</idno>
+            <idno type="STC">ESTC R16654</idno>
+            <idno type="EEBO-CITATION">99860074</idno>
+            <idno type="PROQUEST">99860074</idno>
+            <idno type="VID">156757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156757)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Hull. Being the most happie discoverie of a terrible plot against the said town; intended by Sir Charles Grantham, but discovered by Mr. Henry Brunker, sonne in law unto the said Sir Charles. The manner of the betraying to be by a false alarum at the South Port. With the summe of moneys proffered Mr. Brunker for his trust and consent. And also the manner and meanes of the discoverie. Also, the Danes fleet discovered at sea, having (as is supposed) an intent against this kingdome; with the manner how Van Trump the Dutch-admirall met with them at sea, upon the English coast. Wherein is related the manner of their battell, and how they were put to flight.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Tompson. and Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 15. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brunker, Henry --  Early works to 1800.</term>
+               <term>Grantham, Charles, --  Sir --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156757:1" rendition="simple:additions"/>
+            <p>GOOD NEWES FROM HVLL.</p>
+            <p>Being the moſt happie Diſcoverie of a terrible Plot againſt the ſai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Town; Intended by Sir <hi>Charles Grantham,</hi> but diſcovered by Mr. <hi>Henry Brunker,</hi> Sonne in law unto the ſaid Sir <hi>Charles.</hi>
+            </p>
+            <p>The manner of the betraying to be by a falſe Alarum at the South Port. With the ſumme of moneys proffered Mr. <hi>Brunker</hi> for his truſt and conſent. And alſo the manner and meanes of the Diſcoverie.</p>
+            <p>ALSO, The Danes Fleet diſcovered at Sea, having (as is ſuppoſed) a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt this Kingdome; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith the manner how VAN TRV<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Dutch Admirall met with them at Sea, upon the Engliſh Coaſt.</p>
+            <p>Wherein is related the manner of their Battell, and how they were put to flight.</p>
+            <p>LONDON, Printed for <hi>J. Tompſon.</hi> and <hi>Andrew Coe. June</hi> 15. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156757:2"/>
+            <pb facs="tcp:156757:2"/>
+            <head>
+               <hi>Good Newes from HULL.</hi> Being the diſcoverie of a terrible Plot, to ſur<g ref="char:EOLhyphen"/>priſe and take the ſaid Citie, alſo the manner and means of the complotting, the ſum prof<g ref="char:EOLhyphen"/>fered and paid for the betraying; With the the Diſcoverie, and the manner thereof.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Iſchief is alwayes pregnant, and can never want willing inſtruments to bring her un<g ref="char:EOLhyphen"/>to perfection. Theſe diſeaſed Times, which languiſh in ex<g ref="char:EOLhyphen"/>pectation of remedy, are daily foſtred and made worſe by new deviſes, and plots. Ill diſpoſed perſons will never ſatisfie them<g ref="char:EOLhyphen"/>ſelves, but with the publike ruine, and all their aim is confuſion and deſtruction. They hate peace, as ſound men do a diſeaſe, and their hearts are ſtill on fire, untill their bad conceptions are brought into action and conception. This lingring miſchief was
+<pb facs="tcp:156757:3"/>long breeding in the breaſt of Sir <hi>Charles Grantham</hi> living within three miles of <hi>Hull,</hi> who had his minde been as good as his poſſeſſions, might have ſhined a wor<g ref="char:EOLhyphen"/>thy member in this our Commonwealth. But the common diſeaſe of theſe times had infected his blood, and now to promote his diſcontents, and give birth to his ill in<g ref="char:EOLhyphen"/>tentions, he invented this plot againſt the Town of <hi>Hull.</hi> One Mr. <hi>Henry Brunker</hi> a very worthy man and an ancient ſouldier, was wedded unto the daughter of this Sir <hi>Charles,</hi> unto whom (upon what reaſon grounded I cannot for the preſent give the Reader ſatisfaction) Sir <hi>Charles</hi> neither gave countenance nor maintainance, ſo that the low ebbe of his fortunes, conſtrained him to apply himſelf unto Sir <hi>Iohn Hotham,</hi> and under him to gain ſome ſmall proportion to relieve and defend himſelf from preſent want and extremitie. He had continued long an alien to his father in Law his affection, and a ſtranger to his charitie, but on a ſud<g ref="char:EOLhyphen"/>dain, it happened beyond the expectation of Mr. <hi>Brunker</hi> Sir <hi>Charles</hi> his ſon in Law, that Sir <hi>Charles</hi> with much reſpect and ſpe<g ref="char:EOLhyphen"/>cious
+<pb facs="tcp:156757:3"/>affection ſent for him, whom former<g ref="char:EOLhyphen"/>ly he could not endure within his ſight. Mr. <hi>Brunker</hi> much admired at the change of his fathers diſpoſition, yet willing to give ſatisfaction, and not to incur the cen<g ref="char:EOLhyphen"/>ſure of a contumacious and ſtubborn child, did attend his father in law, and accor<g ref="char:EOLhyphen"/>ding to his deſire came unto his Houſe unto him. His welcome was as extraordi<g ref="char:EOLhyphen"/>narie as the cauſe, both being beyond the thought of Mr. <hi>Brunker.</hi>
+            </p>
+            <p>Now was the Cockatrice hatching his egges, and waited a continuall opportuni<g ref="char:EOLhyphen"/>tie to bring them to perfection. But after his entertainment, thus he began to open his intentions. That it was true his hand had bin for a long ſpace cloſe; and ſhut un<g ref="char:EOLhyphen"/>to him, but now if he pleaſed to imbrace it, a way was offered unto him, whereby he might promote his decayed fortunes, and raiſe himſelf to eminencie and dignitie. Seeing you are in truſt under Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham,</hi> you may do what I ſhall propoſe un<g ref="char:EOLhyphen"/>to you, which will be no way diſadvanta<g ref="char:EOLhyphen"/>geous unto you, but rather prefer you to future fortunes.
+<pb facs="tcp:156757:4"/>The Town of <hi>Hull</hi> you may betray and de<g ref="char:EOLhyphen"/>liver up into our hands and for your ſale<g ref="char:EOLhyphen"/>rie and truſt in that cauſe, I for my part will preſently allow unto you 200 l. <hi>per an<g ref="char:EOLhyphen"/>num,</hi> and alſo ſupply you for the preſent with 500. l. to defray and pay your pre<g ref="char:EOLhyphen"/>ſent occaſions. Mr. <hi>Brunker</hi> ſeemed to con<g ref="char:EOLhyphen"/>ſent to thoſe his propoſitions, and told him that his true and faithfull ſervice in this caſe ſhould not be wanting, but that withall, he muſt of neceſſitie obtain the conſent of one Mr. <hi>John Hayly</hi> a Scotch<g ref="char:EOLhyphen"/>man, for without him nothing could be effected or performed in this caſe. The plot was thus farre ſpread, Mr. <hi>Brunker</hi> parted with his father for the preſent, the Scotch<g ref="char:EOLhyphen"/>man was ſent for, and had the ſame condi<g ref="char:EOLhyphen"/>tions propoſed unto him. But no ſooner was Mr. <hi>Brunker</hi> come unto <hi>Hull,</hi> but he immediately acquainted Sir <hi>John Hotham</hi> with all their diſcourſe and conditions, who willed Mr. <hi>Brunker</hi> to take the ſalery, and ſtill to countenance the plot. Mr. <hi>Brun<g ref="char:EOLhyphen"/>ker</hi> went again to his father in law, and by Sir <hi>John Hothams</hi> advice, told him he was reſolved upon the Exploit, the meanes and
+<pb facs="tcp:156757:4"/>way now was the ayme of Sir <hi>Charles</hi> his ambition, and thus he began to plot it; That at the dead of night when Mr. <hi>Brun<g ref="char:EOLhyphen"/>ker</hi> was abroad with his Watch, about 12. of the clock, he ſhould draw down his Watch unto the South Port, and being there immediately ſtrike up a falſe alarum, as if they expected ſome aſſault, and then they while the combuſtion was there rai<g ref="char:EOLhyphen"/>ſed, would with all their power have op<g ref="char:EOLhyphen"/>portunity to enter in at the Weſt Port. Mr. <hi>Brunker</hi> ſeemed very well pleaſed with the contrivance, and firſt made ſure of his land and moneys, afterwards he related all to Sir <hi>John Hotham,</hi> who according to his own diſpoſition of Goodneſſe, did ſecure the Town from the preſent invaſion.</p>
+            <p>Sir <hi>Charles</hi> being thus diſcovered, as you may juſtly conceive, was very much per<g ref="char:EOLhyphen"/>plexed, but having no remedy for his an<g ref="char:EOLhyphen"/>ger, was enforced to ſatisfie himſelf with bare content; the Plot was diſcovered, the Town ſecured, the Actors known to be ma<g ref="char:EOLhyphen"/>lignant Foes to the Commonwealth, and as yet Juſtice and Piety have taken place.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:156757:5"/>
+            <head>The <hi>Danes</hi> Fleet diſcovered at Sea, having (as it is ſuppoſed) an intent againſt this Kingdom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</head>
+            <p>IF it may not ſeem any way offenſive to you, I ſhall pre<g ref="char:EOLhyphen"/>ſent unto you, which wh<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you have heard of formerly or no, I cannot tell, concerning the <hi>Danes,</hi> who have pre<g ref="char:EOLhyphen"/>ſumed ſo farre upon his Majeſties Coaſt as to come within ten leagues of his Majeſties Port of <hi>Hull,</hi> affrighting the people there by their daily report proceeding from their own mouthes. That they were bound for <hi>England</hi> to receive ſatisfaction for ſome wrongs done them; Whereupon the rumour being ſpread abroad through theſe their <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, in<g ref="char:EOLhyphen"/>telligence was given to ſome of hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maieſties Ships then at Sea, being the <hi>Iames</hi> and th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Rainbow,</hi> there being with them ſixe Merchants Ships; who reſo ved to goe and meet them, thereby to enquire the truth of this report, but ere they came near, they perceived a ſmall company of Dutch ſhips being men of War, ready provided for an incounter with the Danes, which gave them occaſion of beholding the proſpect: They begun the fight on Monday the 22 of May, continuing in fight the ſpace of two houres very hot<g ref="char:EOLhyphen"/>ly. <hi>Van Trump</hi> the Dutch Admirall being then preſent be<g ref="char:EOLhyphen"/>haved himſelf very valiantly, inſomuch that they ſunk many of the Danes ſhips ere it was two of the clock, when having ſpent much powder and ſho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of either party, they reſolved upon parly, which continued for an hour, wherein <hi>Van Trump</hi> deſired the peruſal of their Commiſſion, and to know whether they were bound, the ground of their intents, which being denied, they fell to it again, and commned till it was dark; then taking opportunity of the night, being very cloudy they fled, but the wind being contrary, ſome were driven upon the Weſtern Coaſt of England.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
